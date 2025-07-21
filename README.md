@@ -1,2 +1,2 @@
 # NiFe_MOF_catalyst_paper
-Data used for the paper "Investigation of a MOF-derived Ni3Fe@C catalyst in the CO2 methanation with gas dropouts in catalytic cycling using in-situ XAS and PDF"
+Data used for the paper "Role of Gas Dropouts in CO2 Methanation over MOF-Derived Ni3Fe@C Catalysts: An In Situ XAS and PDF Study"
